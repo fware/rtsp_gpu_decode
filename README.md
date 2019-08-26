@@ -13,7 +13,7 @@ make
 ## dependency
 * ffmpeg 3.3  (prebuilt libraries included)
 * tested with cuda 9.0 (custom install)
-* opencv 2.4.13.6  (custom built for target pc, NVidia 1060 GPU)
+* opencv 2.4.13.6  (custom built for target pc, Ubuntu 18.04, NVidia 1060 GPU)
 
 ```
 export CMAKE_PREFIX_PATH=/path/to/opencv/lib
